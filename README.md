@@ -1,1 +1,1 @@
-# fantasy-hockey-draft-app
+# Fantasy Hockey Draft App
